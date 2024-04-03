@@ -7,7 +7,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        public static void main(String[] args) {
+
 
 
             int[][] board = {
@@ -24,8 +24,7 @@ public class Main {
             printBoard(board);
         }
 
-
-    }
+    
 
 
     public static void printBoard(int[][] board) {
