@@ -24,7 +24,7 @@ public class Main {
             printBoard(board);
         }
 
-    
+
 
 
     public static void printBoard(int[][] board) {
